@@ -50,4 +50,7 @@ cp wallet.json.example wallet.json
 ```bash
 ./run.sh       # on linux/mac
 run.bat        # on windows
+
 ```
+nex time you need to use 
+python cli.py
